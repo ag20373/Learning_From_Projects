@@ -4,3 +4,8 @@
     margin:0 auto;
 }
 
+.top_btn{
+    display: flex;
+    gap: 34px;
+}
+
